@@ -1,116 +1,118 @@
-[
-  {
-    "sku": "KUN001",
-    "name": "Maggi 2",
-    "manufacturer": "Nestle India",
-    "quantity": "Maggi 2, 70g"
-  },
-  {
-    "sku": "KUN002",
-    "name": "Maggi 2",
-    "manufacturer": "Nestle India",
-    "quantity": "Maggi 2, 560gms"
-  },
-  {
-    "sku": "KUN003",
-    "name": "Tomato Ketchup",
-    "manufacturer": "Del Monte",
-    "quantity": "Tomato Ketchup, 500gms"
-  },
-  {
-     "sku": "KUN004",
-    "name": "Tomato Ketchup",
-    "manufacturer": "Del Monte",
-    "quantity": "Tomato Ketchup, 250gms"
-  },
-  {
-    "sku": "KUN005",
-    "name": "Corn Flakes",
-    "manufacturer": "Kellogg's",
-    "quantity": "Corn Flakes, 150gms"
-  },
-  {
-    "sku": "KUN002",
-    "name": "Corn Flakes",
-    "manufacturer": "Kellogg's",
-    "quantity": "Corn Flakes, 550gms"
-  },
-  {
-     "sku": "KUN006",
-    "name": "Organic Sugar",
-    "manufacturer": "24 Mantra Organic",
-    "quantity": "Organic Sugar, 500gms"
-  },
-  {
-     "sku": "KUN007",
-    "name": "Organic Sugar",
-    "manufacturer": "24 Mantra Organic",
-    "quantity": "Organic Sugar, 1kg"
-  },
-  {
-     "sku": "KUN008",
-    "name": "Tamarind Slab",
-    "manufacturer": "Vedaka",
-    "quantity": "Tamarind Slab, 100gms"
-  },
-  {
-   "sku": "KUN009",
-    "name": "Tamarind Slab",
-    "manufacturer": "Vedaka",
-    "quantity": "Tamarind Slab, 500gms"
-  },
-  {
-    "sku": "KUN010",
-    "name": "Red Label Tea",
-    "manufacturer": "Brooke Bond",
-    "quantity": "Red Label Tea, 500gms"
-  },
-  {
-     "sku": "KUN011",
-    "name": "Red Label Tea",
-    "manufacturer": "Brooke Bond",
-    "quantity": "Red Label Tea, 200gms"
-  },
-  {
-     "sku": "KUN012",
-    "name": "Turmeric Sticks",
-    "manufacturer": "Vedaka",
-    "quantity": "Turmeric Sticks, 100gms"
-  },
-  {
-    "sku": "KUN013",
-    "name": "Turmeric Sticks",
-    "manufacturer": "Vedaka",
-    "quantity": "Turmeric Sticks, 100gms"
-  },
-  {
-    "sku": "KUN014",
-    "name": "Sodium Iodised Salt",
-    "manufacturer": "TATA",
-    "quantity": "Sodium Iodised Salt, 500gms"
-  },
-  {
-     "sku": "KUN015",
-    "name": "Sodium Iodised Salt",
-    "manufacturer": "TATA",
-    "quantity": "Sodium Iodised Salt, 1kg"
-  },
-  {
-     "sku": "KUN016",
-    "name": "Toilet Cleaner Liquid",
-    "manufacturer": "Harpic",
-    "quantity": "Toilet Cleaner Liquid, 500ml"
-  },
-  {
-    "sku": "KUN017",
-    "name": "Toilet Cleaner Liquid",
-    "manufacturer": "Harpic",
-    "quantity": "Toilet Cleaner Liquid, 1L"
-  },
-  {
-     "sku": "KUN018",
-    "name": "Butter - Pasteurised",
-    "manufacturer": "Amul",
-    "quantity": "Butter - Pasteurised, 500gms"
-  }
-]
+{
+  "products": [
+    {
+      "sku": "KUN001",
+      "name": "Maggi 2",
+      "manufacturer": "Nestle India",
+      "quantity": "Maggi 2, 70g"
+    },
+    {
+      "sku": "KUN002",
+      "name": "Maggi 2",
+      "manufacturer": "Nestle India",
+      "quantity": "Maggi 2, 560gms"
+    },
+    {
+      "sku": "KUN003",
+      "name": "Tomato Ketchup",
+      "manufacturer": "Del Monte",
+      "quantity": "Tomato Ketchup, 500gms"
+    },
+    {
+      "sku": "KUN004",
+      "name": "Tomato Ketchup",
+      "manufacturer": "Del Monte",
+      "quantity": "Tomato Ketchup, 250gms"
+    },
+    {
+      "sku": "KUN005",
+      "name": "Corn Flakes",
+      "manufacturer": "Kellogg's",
+      "quantity": "Corn Flakes, 150gms"
+    },
+    {
+      "sku": "KUN002",
+      "name": "Corn Flakes",
+      "manufacturer": "Kellogg's",
+      "quantity": "Corn Flakes, 550gms"
+    },
+    {
+      "sku": "KUN006",
+      "name": "Organic Sugar",
+      "manufacturer": "24 Mantra Organic",
+      "quantity": "Organic Sugar, 500gms"
+    },
+    {
+      "sku": "KUN007",
+      "name": "Organic Sugar",
+      "manufacturer": "24 Mantra Organic",
+      "quantity": "Organic Sugar, 1kg"
+    },
+    {
+      "sku": "KUN008",
+      "name": "Tamarind Slab",
+      "manufacturer": "Vedaka",
+      "quantity": "Tamarind Slab, 100gms"
+    },
+    {
+      "sku": "KUN009",
+      "name": "Tamarind Slab",
+      "manufacturer": "Vedaka",
+      "quantity": "Tamarind Slab, 500gms"
+    },
+    {
+      "sku": "KUN010",
+      "name": "Red Label Tea",
+      "manufacturer": "Brooke Bond",
+      "quantity": "Red Label Tea, 500gms"
+    },
+    {
+      "sku": "KUN011",
+      "name": "Red Label Tea",
+      "manufacturer": "Brooke Bond",
+      "quantity": "Red Label Tea, 200gms"
+    },
+    {
+      "sku": "KUN012",
+      "name": "Turmeric Sticks",
+      "manufacturer": "Vedaka",
+      "quantity": "Turmeric Sticks, 100gms"
+    },
+    {
+      "sku": "KUN013",
+      "name": "Turmeric Sticks",
+      "manufacturer": "Vedaka",
+      "quantity": "Turmeric Sticks, 100gms"
+    },
+    {
+      "sku": "KUN014",
+      "name": "Sodium Iodised Salt",
+      "manufacturer": "TATA",
+      "quantity": "Sodium Iodised Salt, 500gms"
+    },
+    {
+      "sku": "KUN015",
+      "name": "Sodium Iodised Salt",
+      "manufacturer": "TATA",
+      "quantity": "Sodium Iodised Salt, 1kg"
+    },
+    {
+      "sku": "KUN016",
+      "name": "Toilet Cleaner Liquid",
+      "manufacturer": "Harpic",
+      "quantity": "Toilet Cleaner Liquid, 500ml"
+    },
+    {
+      "sku": "KUN017",
+      "name": "Toilet Cleaner Liquid",
+      "manufacturer": "Harpic",
+      "quantity": "Toilet Cleaner Liquid, 1L"
+    },
+    {
+      "sku": "KUN018",
+      "name": "Butter - Pasteurised",
+      "manufacturer": "Amul",
+      "quantity": "Butter - Pasteurised, 500gms"
+    }
+  ]
+}
