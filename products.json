@@ -4,115 +4,133 @@
       "sku": "KUN001",
       "name": "Maggi 2",
       "manufacturer": "Nestle India",
-      "quantity": "Maggi 2, 70g"
+      "quantity": 25,
+      "quantity_des": "Maggi 2, 70g"
     },
     {
       "sku": "KUN002",
       "name": "Maggi 2",
       "manufacturer": "Nestle India",
-      "quantity": "Maggi 2, 560gms"
+      "quantity": 35,
+      "quantity_des": "Maggi 2, 560gms"
     },
     {
       "sku": "KUN003",
       "name": "Tomato Ketchup",
       "manufacturer": "Del Monte",
-      "quantity": "Tomato Ketchup, 500gms"
+      "quantity": 122,
+      "quantity_des": "Tomato Ketchup, 500gms"
     },
     {
       "sku": "KUN004",
       "name": "Tomato Ketchup",
       "manufacturer": "Del Monte",
-      "quantity": "Tomato Ketchup, 250gms"
+      "quantity": 444,
+      "quantity_des": "Tomato Ketchup, 250gms"
     },
     {
       "sku": "KUN005",
       "name": "Corn Flakes",
       "manufacturer": "Kellogg's",
-      "quantity": "Corn Flakes, 150gms"
+      "quantity": 35,
+      "quantity_des": "Corn Flakes, 150gms"
     },
     {
       "sku": "KUN002",
       "name": "Corn Flakes",
       "manufacturer": "Kellogg's",
-      "quantity": "Corn Flakes, 550gms"
+      "quantity": 2212,
+      "quantity_des": "Corn Flakes, 550gms"
     },
     {
       "sku": "KUN006",
       "name": "Organic Sugar",
       "manufacturer": "24 Mantra Organic",
-      "quantity": "Organic Sugar, 500gms"
+      "quantity": 122,
+      "quantity_des": "Organic Sugar, 500gms"
     },
     {
       "sku": "KUN007",
       "name": "Organic Sugar",
       "manufacturer": "24 Mantra Organic",
-      "quantity": "Organic Sugar, 1kg"
+      "quantity": 33,
+      "quantity_des": "Organic Sugar, 1kg"
     },
     {
       "sku": "KUN008",
       "name": "Tamarind Slab",
       "manufacturer": "Vedaka",
-      "quantity": "Tamarind Slab, 100gms"
+      "quantity": 35,
+      "quantity_des": "Tamarind Slab, 100gms"
     },
     {
       "sku": "KUN009",
       "name": "Tamarind Slab",
       "manufacturer": "Vedaka",
-      "quantity": "Tamarind Slab, 500gms"
+      "quantity": 555,
+      "quantity_des": "Tamarind Slab, 500gms"
     },
     {
       "sku": "KUN010",
       "name": "Red Label Tea",
       "manufacturer": "Brooke Bond",
-      "quantity": "Red Label Tea, 500gms"
+      "quantity": 444,
+      "quantity_des": "Red Label Tea, 500gms"
     },
     {
       "sku": "KUN011",
       "name": "Red Label Tea",
       "manufacturer": "Brooke Bond",
-      "quantity": "Red Label Tea, 200gms"
+      "quantity": 988,
+      "quantity_des": "Red Label Tea, 200gms"
     },
     {
       "sku": "KUN012",
       "name": "Turmeric Sticks",
       "manufacturer": "Vedaka",
-      "quantity": "Turmeric Sticks, 100gms"
+      "quantity": 444,
+      "quantity_des": "Turmeric Sticks, 100gms"
     },
     {
       "sku": "KUN013",
       "name": "Turmeric Sticks",
       "manufacturer": "Vedaka",
-      "quantity": "Turmeric Sticks, 100gms"
+      "quantity": 1212,
+      "quantity_des": "Turmeric Sticks, 100gms"
     },
     {
       "sku": "KUN014",
       "name": "Sodium Iodised Salt",
       "manufacturer": "TATA",
-      "quantity": "Sodium Iodised Salt, 500gms"
+      "quantity": 3445,
+      "quantity_des": "Sodium Iodised Salt, 500gms"
     },
     {
       "sku": "KUN015",
       "name": "Sodium Iodised Salt",
       "manufacturer": "TATA",
-      "quantity": "Sodium Iodised Salt, 1kg"
+      "quantity": 33,
+      "quantity_des": "Sodium Iodised Salt, 1kg"
     },
     {
       "sku": "KUN016",
       "name": "Toilet Cleaner Liquid",
       "manufacturer": "Harpic",
-      "quantity": "Toilet Cleaner Liquid, 500ml"
+      "quantity": 22,
+      "quantity_des": "Toilet Cleaner Liquid, 500ml"
     },
     {
       "sku": "KUN017",
       "name": "Toilet Cleaner Liquid",
       "manufacturer": "Harpic",
-      "quantity": "Toilet Cleaner Liquid, 1L"
+      "quantity": 121,
+      "quantity_des": "Toilet Cleaner Liquid, 1L"
     },
     {
       "sku": "KUN018",
       "name": "Butter - Pasteurised",
       "manufacturer": "Amul",
-      "quantity": "Butter - Pasteurised, 500gms"
+      "quantity_des": "Butter - Pasteurised, 500gms"
     }
   ]
 }
